@@ -34,16 +34,20 @@ The CanSat Ground Control Software provides a centralized dashboard for monitori
 ##  Screenshots
 
 ### Dashboard
-> *(Add dashboard screenshot here)*
+<img width="1915" height="827" alt="dashboard" src="https://github.com/user-attachments/assets/3f597dcd-88a1-4717-82ad-a63ec1f35346" />
+
 
 ### Real-Time Telemetry Graph
-> *(Add graph screenshot here)*
+<img width="1914" height="825" alt="Real Time Graphs" src="https://github.com/user-attachments/assets/cf2e0c4a-b9ae-422c-bad6-d6f1dfa8589c" />
+
 
 ### GPS Tracking
-> *(Add GPS map screenshot here)*
+<img width="1875" height="724" alt="GPS" src="https://github.com/user-attachments/assets/bb54e2c3-4e92-49be-824a-3f4a6ebc0a21" />
+
 
 ### Live Video Streaming
-> *(Add video module screenshot here)*
+<img width="1865" height="820" alt="Vedio" src="https://github.com/user-attachments/assets/2dbe01fa-4426-4c03-a7e8-cb2636d404e1" />
+
 
 ##  Modules
 
